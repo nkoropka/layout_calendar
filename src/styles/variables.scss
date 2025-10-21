@@ -1,6 +1,6 @@
 $day-size: 100px;
 $gap: 1px;
-$border: 1px;
+$border-width: 1px;
 $padding: 10px;
 $cols: 7;
 $main-color: #eee;
@@ -9,6 +9,7 @@ $font: Arial, sans-serif;
 $day-number-font-size: 30px;
 $transform-distance: 20px;
 $animation-duration: 0.5s;
+$border-color: #000;
 $days-map: (
   mon: 0,
   tue: 1,

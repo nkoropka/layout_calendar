@@ -31,7 +31,7 @@ body {
     background-color: $main-color;
     width: $day-size;
     height: $day-size;
-    border: $border solid #000;
+    border: $border-width solid $border-color;
     transition:
       transform $animation-duration,
       background-color $animation-duration;
